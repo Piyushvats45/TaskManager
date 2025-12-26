@@ -1,7 +1,5 @@
 # TaskManager
 
-TaskManager is a site where you can add your work to do
-
-it shows list TO DO
+Task Manager (To-Do List) web application that helps users efficiently organize, track, and manage daily tasks with features like adding, updating, deleting, and marking tasks as completed.
 
 
